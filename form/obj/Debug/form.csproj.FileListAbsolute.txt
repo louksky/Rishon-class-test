@@ -1,0 +1,9 @@
+c:\users\asafl\source\repos\form\form\bin\Debug\form.exe.config
+c:\users\asafl\source\repos\form\form\bin\Debug\form.exe
+c:\users\asafl\source\repos\form\form\bin\Debug\form.pdb
+c:\users\asafl\source\repos\form\form\obj\Debug\form.Form1.resources
+c:\users\asafl\source\repos\form\form\obj\Debug\form.Properties.Resources.resources
+c:\users\asafl\source\repos\form\form\obj\Debug\form.csproj.GenerateResource.Cache
+c:\users\asafl\source\repos\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+c:\users\asafl\source\repos\form\form\obj\Debug\form.exe
+c:\users\asafl\source\repos\form\form\obj\Debug\form.pdb
